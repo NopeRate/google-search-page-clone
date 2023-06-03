@@ -3,7 +3,7 @@ Bu repo Google Arama Sayfasının HTML ve CSS kullanılarak neredeyse birebir kl
 <hr/>
 <br/>
 <h3>Preview</h3>
-<p>You can go this link for preview the project at my website : https://noperate.com/works/google-search-page/ </p>
+<p>You can go this link for preview the project at my website : https://noperate.com/portfolio/works/google-search-page/ </p>
 <hr/>
 <br/>
 <h3>Copyrights</h3>
